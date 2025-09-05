@@ -1,1 +1,4 @@
 /download = https://www.mediafire.com/file/2udoj1s06pj3nuk/Delta-2.688.862.apk/file?dkey=03pnv5rp3pt&r=546
+
+
+Fish It Script : loadstring(game:HttpGet("https://raw.githubusercontent.com/Vinzyy13/VinzHub/refs/heads/main/Fish-It"))()
